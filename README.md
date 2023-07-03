@@ -48,7 +48,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+### Acknowledgements
 
+Some of the code in this repository is revised from the [pick-benchmark](https://github.com/seisbench/pick-benchmark) repository. If you are using code from this repository for your work, please reference the following publication: [Which Picker Fits My Data? A Quantitative Evaluation of Deep Learning Based Seismic Pickers](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB023499)
 ### Citation
 
 If you find this work useful in your research, please consider citing our paper:
