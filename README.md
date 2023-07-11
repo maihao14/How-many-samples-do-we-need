@@ -17,8 +17,10 @@ The use of deep learning (DL) in earthquake detection and phase-picking tasks ha
 ### Repository Contents
 
 - **Python Scripts**: Contain the code for training and evaluating the deep learning models.
-- **Deep Learning Models**: The pre-trained models used in the research.
+- **Deep Learning Models**: The pre-trained models used in the research (saved in `/pred` folder in this repo).
 - **Training Dataset for the Mackenzie Mountains**: A dataset used for training and evaluating the models.
+  
+  Mackenzie Mountain Dataset can be downloaded at [here](https://www.kaggle.com/datasets/okaygoodnight/mackenzie-mountain-earthquake-dataset-for-ai-use)
 
 ### How to Use
 
